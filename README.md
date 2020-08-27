@@ -1,1 +1,1 @@
-"# dragNdrop-typescript" 
+# Simple project to play with TypeScript features
